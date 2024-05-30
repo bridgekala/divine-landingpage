@@ -395,9 +395,9 @@
             <div class="container">
                 <div class="row text-center mb-5">
                     <strong class="headings" style="color:#fff;">
-                        What will you <span class="headings"
-                            style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">learn</span>
-                        in the Program?
+                        What will you get in this <span class="headings"
+                            style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Treatment</span>
+                        ?
                     </strong>
                 </div>
                 <div class="accordion-menu">
@@ -405,115 +405,57 @@
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Comprehensive Product and Tool
-                                Knowledge</span>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Personalized Consultation</span>
                             <p style="color:white;padding-left: 15px;margin: 10px 20px;">
-                                <i class="fas fa-check"></i>Introduction to a wide array of makeup products across
-                                different brands and
-                                categories.
-                                <br><i class="fas fa-check"></i>Detailed explanation of each tool's purpose and correct
-                                usage.
-                                <br><i class="fas fa-check"></i>Hands-on session to practice using these tools, and
-                                understanding their
-                                impact on makeup application.
+                                <i class="fas fa-check"></i>An in-depth consultation with our expert hair specialists to assess your hair and scalp condition and understand your specific needs and goals.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">In-Depth Eye Makeup Techniques</span>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Customized Treatment Plan</span>
                             <p style="color:white;padding-left: 25px;margin: 10px 20px;">
-                                <i class="fas fa-check"></i>Detailed study of eye anatomy to identify different eye
-                                shapes.
-                                <br><i class="fas fa-check"></i>Tutorial on selecting appropriate eyeshadow shades for
-                                various eye
-                                colors
-                                and
-                                shapes.
-                                <br><i class="fas fa-check"></i>Step-by-step guidance on achieving perfectly blended
-                                eyeshadow looks,
-                                including
-                                gradient and smoky effects.
+                                <i class="fas fa-check"></i>A tailored treatment plan designed to address your unique hair concerns and deliver optimal results.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Mastering Skin Textures</span>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Use of Premium Products</span>
                             <p style="color:white;padding-left: 25px;margin: 10px 20px;">
-                                <i class="fas fa-check"></i>Analysis of different skin types and textures.
-                                <br><i class="fas fa-check"></i>Demonstrations on prepping skin before makeup
-                                application.
-                                <br><i class="fas fa-check"></i>Techniques to Apply foundation and concealer on varied
-                                skin textures
-                                ensure a natural and flawless finish.
+                                <i class="fas fa-check"></i>The application of high-quality, professional-grade products that are safe and effective for your hair type and condition.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Trend-Based Makeup Applications</span>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Comfortable and Relaxing Environment</span>
                             <p style="color:white;padding-left: 25px;margin: 10px 20px;">
-                                <i class="fas fa-check"></i>Exploration of the latest makeup trends and how to interpret
-                                them for client
-                                requests.
-                                <br><i class="fas fa-check"></i>Practical application of trend-based makeup looks,
-                                focusing on using
-                                multiple products to achieve a cohesive look.
-                                <br><i class="fas fa-check"></i>Tips on adapting trends to suit individual client
-                                features and
-                                preferences.
+                                <i class="fas fa-check"></i>A serene and relaxing environment where you can unwind and enjoy a pampering hair care experience.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Advanced Concealing and
-                                Correcting</span>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Boost in Confidence</span>
                             <p style="color:white;padding-left: 25px;margin: 10px 20px;">
-                                <i class="fas fa-check"></i>Deep dive into color theory for effective concealing and
-                                correcting.
-                                <br><i class="fas fa-check"></i>Techniques to cover blemishes, discoloration, and other
-                                skin concerns
-                                with
-                                minimal product.
-                                <br><i class="fas fa-check"></i>Practice session focusing on achieving a balanced and
-                                radiant
-                                complexion.
+                                <i class="fas fa-check"></i>A noticeable improvement in the health and appearance of your hair, boosting your confidence and self-esteem.
+                                <br><i class="fas fa-check"></i>These points cover the comprehensive benefits and services clients will receive when they choose a hair treatment at Divine Cosmetics.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Signature Bridal Makeup</span>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Advanced Techniques</span>
                             <p style="color:white;padding-left: 25px;margin: 10px 20px;">
-                                <i class="fas fa-check"></i>Step-by-step tutorials on Yashika's signature bridal looks
-                                for different
-                                wedding events.
-                                <br><i class="fas fa-check"></i>Discussion on selecting appropriate makeup styles for
-                                various bridal
-                                occasions.
-                                <br><i class="fas fa-check"></i>Application practice, emphasizing customization for
-                                normal and
-                                problematic
-                                skin types.
-                            </p>
+                                <i class="fas fa-check"></i>Utilization of the latest hair care technologies and advanced techniques to ensure the best possible outcome.                            </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Social Media Mastery and Brand
-                                Building</span>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Deep Cleansing and Conditioning</span>
                             <p style="color:white;padding-left: 25px;margin: 10px 20px;">
-                                <i class="fas fa-check"></i>Training on crafting an appealing Instagram profile
-                                dedicated to makeup
-                                artistry.
-                                <br><i class="fas fa-check"></i>Detailed strategies for content creation, audience
-                                engagement, and
-                                growth.
-                                <br><i class="fas fa-check"></i>Workshop on leveraging Instagram features for promotion
-                                and paid
-                                advertising.
+                                <i class="fas fa-check"></i>A thorough cleansing and conditioning process to remove impurities, hydrate, and nourish your hair from root to tip.
                             </p>
                         </li>
                     </ul>
@@ -834,117 +776,90 @@
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
                             <span class="fs-lg-4 fw-normal"
-                                style="color:white;padding-right: 5px;display: inline-block;">What should
-                                I bring to the 7-day professional makeup
-                                course?</span>
+                                style="color:white;padding-right: 5px;display: inline-block;">What types of hair treatments do you offer ?</span>
                             <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                Please bring your own set of makeup brushes and sponges as these are not provided.
+                                We offer a wide range of hair treatments including hair restoration, keratin treatments, scalp therapy, hair coloring, and custom haircuts. Each treatment is tailored to address specific hair and scalp concerns.                            
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
                             <span class="fs-lg-4 fw-normal"
-                                style="color:white;padding-right: 5px;display: inline-block;">Will I
-                                receive a list of recommended makeup tools to
-                                bring?</span>
+                                style="color:white;padding-right: 5px;display: inline-block;">How do I book a consultation ?</span>
                             <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                Yes, upon enrollment, you will receive a list of recommended tools to ensure you are
-                                fully prepared.
+                                You can easily book a consultation through our website by clicking the "Book Now" button, or by calling us directly at 123-456-7890. Our team will assist you in scheduling an appointment at your convenience.                            
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
                             <span class="fs-lg-4 fw-normal"
-                                style="color:white;padding-right: 5px;display: inline-block;">Is prior
-                                makeup experience required to join the
-                                course?</span>
+                                style="color:white;padding-right: 5px;display: inline-block;">Are your treatments safe for all hair types ?</span>
                             <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                No experience is necessary; the course is structured to accommodate both beginners and
-                                seasoned
-                                individuals.
+                                Yes, our treatments are designed to be safe and effective for all hair types. During your consultation, our specialists will assess your hair and scalp to recommend the best treatment for your specific needs.                            
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
                             <span class="fs-lg-4 fw-normal"
-                                style="color:white;padding-right: 5px;display: inline-block;">What does
-                                the course fee cover?</span>
+                                style="color:white;padding-right: 5px;display: inline-block;">How long does a typical hair treatment session take ?</span>
                             <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                The fee includes instruction, use of makeup products, professional certification,
-                                accommodations, and
-                                meals.
+                                The duration of a treatment session can vary depending on the type of treatment. On average, sessions last between 60 to 90 minutes. More detailed treatments, such as hair coloring or restorative therapies, may take longer.   
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked>
                             <i class="arrow"></i>
                             <span class="fs-lg-4 fw-normal"
-                                style="color:white;padding-right: 5px;display: inline-block;">Can I use
-                                the course to build my
-                                professional
-                                portfolio?</span>
-                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                Absolutely, you'll create various looks suitable for a professional portfolio during the
-                                practical
-                                sessions.
-                            </p>
-                        </li>
-                        <li>
-                            <input type="checkbox" checked>
-                            <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal"
-                                style="color:white;padding-right: 5px;display: inline-block;">What type of
-                                certification will I receive?</span>
-                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                You will earn a professional certificate upon completing the course, validating your new
-                                skills.
-                            </p>
-                        </li>
-                        <li>
-                            <input type="checkbox" checked>
-                            <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">How will this course advance my makeup
-                                career?</span>
-                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                The comprehensive training, hands-on experience, and certification you receive can
-                                significantly enhance
-                                your career
-                                prospects.
-                            </p>
-                        </li>
-                        <li>
-                            <input type="checkbox" checked>
-                            <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">What makeup styles will I learn during
-                                the
-                                course?</span>
-                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                You'll learn a range of styles, focusing on bridal, trend-based, and corrective makeup.
-                            </p>
-                        </li>
-                        <li>
-                            <input type="checkbox" checked>
-                            <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Does the course include social media
-                                training?</span>
-                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                Yes, it covers essential social media and branding strategies to help promote your
-                                makeup artistry.
-                            </p>
-                        </li>
-                        <li>
-                            <input type="checkbox" checked>
-                            <i class="arrow"></i>
-                            <span class="fs-lg-4 fw-normal" style="color:white">Who can I contact for further details or
-                                to enroll in
-                                the
-                                course?
+                                style="color:white;padding-right: 5px;display: inline-block;">
+                                Can I color my hair if I have sensitive skin ?
                             </span>
                             <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                For more information or registration, please contact the provided phone numbers.
+                                We offer gentle, hypoallergenic hair coloring options that are suitable for individuals with sensitive skin. Our specialists will ensure that the products used are safe for your scalp and skin type.                            
+                            </p>
+                        </li>
+                        <li>
+                            <input type="checkbox" checked>
+                            <i class="arrow"></i>
+                            <span class="fs-lg-4 fw-normal"
+                                style="color:white;padding-right: 5px;display: inline-block;">How often should I get a hair treatment ?</span>
+                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
+                                The frequency of hair treatments depends on your individual hair needs and goals. Generally, we recommend treatments every 4-6 weeks for optimal results. Our specialists will provide a personalized treatment schedule during your consultation.
+                            </p>
+                        </li>
+                        <li>
+                            <input type="checkbox" checked>
+                            <i class="arrow"></i>
+                            <span class="fs-lg-4 fw-normal" style="color:white">
+                                Will I see immediate results after one treatment ? 
+                           </span>
+                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
+                                While many clients notice immediate improvements after one session, achieving the best results often requires a series of treatments. Our experts will discuss the expected outcomes and timeline during your consultation.
+                            </p>
+                        </li>
+                        <li>
+                            <input type="checkbox" checked>
+                            <i class="arrow"></i>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Do you offer aftercare advice ?</span>
+                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
+                                Yes, we provide detailed aftercare advice to help you maintain the health and appearance of your hair between treatments. Our specialists will recommend products and practices tailored to your hair type and treatment.                            </p>
+                        </li>
+                        <li>
+                            <input type="checkbox" checked>
+                            <i class="arrow"></i>
+                            <span class="fs-lg-4 fw-normal" style="color:white">What if I have a reaction to a treatment ?</span>
+                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
+                                Your safety is our top priority. If you experience any adverse reactions, please contact us immediately. We use high-quality, tested products to minimize the risk of reactions, and our team is trained to handle any issues that may arise.                            
+                            </p>
+                        </li>
+                        <li>
+                            <input type="checkbox" checked>
+                            <i class="arrow"></i>
+                            <span class="fs-lg-4 fw-normal" style="color:white">Do you offer any guarantees on your treatments ?
+                            </span>
+                            <p style="color:white;padding-left: 0px;margin: 10px 0px;">
+                                We strive to ensure complete client satisfaction with our services. If you are not satisfied with your treatment, please let us know, and we will work with you to address your concerns and achieve the desired results.                            
                             </p>
                         </li>
                     </ul>
