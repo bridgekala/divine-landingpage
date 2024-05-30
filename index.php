@@ -160,21 +160,23 @@
                   <strong class="fs-5 p-3 px-1 fs-sm-6">10,000+</strong>
                   <br/>
                   <span class="fw-bold"
-                    style="color: white;font-size: 14px;">surgeries performed</span>
+                    style="color: white;font-size: 14px;">Surgeries Performed</span>
                 </span>
                 <span class="p-3 py-3 text-center"
                   style="border-radius: 8px;background: linear-gradient(0deg, #FF5B5B, #8F0D0D);;overflow: hidden;flex-grow: 1;">
                   <!--<i class="fa fa-youtube-play fs-5" aria-hidden="true"></i>-->
                   <!-- <strong class="fs-5 p-3 px-1 fs-sm-6"></strong> -->
                   <!-- <br/> -->
+                  <strong class="fs-5 p-3 px-1 fs-sm-6">40+ Years</strong>
+                  <br/>
                   <span class="fw-bold" 
-                    style="color: white;font-size: 14px;">Board-Certified <br>plastic surgeons</span>
+                    style="color: white;font-size: 14px;">Expertise</span>
                 </span>
               </div>
               <div class="py-2 d-flex gap-1">
                 <span class="p-3 py-3 flex-grow-1 text-center"
                   style="border-radius: 8px;background: linear-gradient(0deg, #FF5B5B, #8F0D0D);;overflow: hidden;">
-                  <strong class="fs-6 p-3 px-1">Internationally Recognized Procedures</strong>
+                  <strong class="fs-6 p-3 px-1">Board-Certified Plastic Surgeons</strong>
                   <!-- <i class="fa fa-facebook fs-5" aria-hidden="true"></i>
                   <strong class="fs-6 p-3 px-1">565K+</strong>
                   &nbsp;|&nbsp;
@@ -469,53 +471,52 @@
                     <strong class="headings" style="color:#fff;">
                         <span class="headings"
                             style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-                            Instructed By</span>
+                            Our Experts</span>
                     </strong>
                 </div>
                 <div class="row"
                     style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;color:white;">
-                    <div class="col-lg-4" style="max-height:fit-content;">
-                        <img src="custom/yashikatrainer1.webp" alt="image2"
-                            style="height: 100%;width: 100%;object-fit: contain;border-radius: 10px;" />
+                    <div class="col-lg-4" style="display: flex; align-items: flex-end;max-height:fit-content;">
+                        <img src="custom/mentor1.webp" alt="image2"
+                            style="height: 300px;width: 100%;object-fit: contain;border-radius: 10px;" />
                     </div>
                     <div class="col-lg-8 p-4">
-                        <strong>Yashika Sehgal</strong>
+                        <strong>Dr. Amit Gupta</strong>
                         <br />
-                        <em>Celebrity Makeup Artist</em>
+                        <em>Senior Plastic & Cosmetic Surgeon</em>
                         <br /><br />
-                        <p class="" style="color: #bcb0b0;">Yashika Makeovers, founded by the celebrated makeup artist
-                            Yashika,
-                            stands as a beacon of excellence in the beauty
-                            industry. With over 15 years of experience, Yashika has transformed the lives of 15,000+
-                            students and
-                            beautified
-                            500,000+ brides, earning her academy a place among the top in India.
-                            <br /><br />
-                            Renowned for personalized mentorship and innovative
-                            techniques, Yashika Makeovers is dedicated to empowering aspiring artists and clients alike,
-                            turning
-                            passion into a
-                            profession and every occasion into a masterpiece.
+                        <p class="" style="color: #bcb0b0;">Dr. Amit Gupta is the esteemed founder and director of Divine Cosmetic Surgery, operating in Delhi, Gurgaon, and Mumbai. Renowned for his expertise, Dr. Gupta offers a wide array of cosmetic procedures including hair transplants, body contouring, breast enlargement (specializing in Endoscopic Markless Breast Augmentation), VASER liposuction, breast reduction (featuring short markless procedures), facelifts, rhinoplasty, and face rejuvenation.
                         </p>
-                        <div class="py-2 d-flex gap-4">
-                            <span class="p-3 py-2"
-                                style="border-radius: 8px;background: linear-gradient(0deg, #FF5B5B, #8F0D0D);overflow: hidden;">
-                                <i class="fa fa-facebook fs-5" aria-hidden="true"></i>
-                                <strong class="fs-5 p-3">565K+</strong><span style="color: #bcb0b0;">followers</span>
-                            </span>
-                        </div>
-                        <div class="py-2 d-flex gap-4 flex-sm-row flex-column">
-                            <span class="p-3 py-2"
-                                style="border-radius: 8px;background: linear-gradient(0deg, #FF5B5B, #8F0D0D);overflow: hidden;">
-                                <i class="fa fa-instagram fs-5" aria-hidden="true"></i>
-                                <strong class="fs-5 p-3">463K+</strong><span style="color: #bcb0b0;">followers</span>
-                            </span>
-                            <span class="p-3 py-2"
-                                style="border-radius: 8px;background: linear-gradient(0deg, #FF5B5B, #8F0D0D);overflow: hidden;">
-                                <i class="fa fa-youtube-play fs-5" aria-hidden="true"></i>
-                                <strong class="fs-5 p-3">91K+</strong><span style="color: #bcb0b0;">subscribers</span>
-                            </span>
-                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5"
+                    style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;color:white;">
+                    <div class="col-lg-4" style="display: flex; align-items: flex-end;max-height:fit-content;">
+                        <img src="custom/mentor2.webp" alt="image2"
+                            style="height: 300px;width: 100%;object-fit: contain;border-radius: 10px;" />
+                    </div>
+                    <div class="col-lg-8 p-4">
+                        <strong>Dr. Aakanksha Goel</strong>
+                        <br />
+                        <em>Consultant Plastic Surgeon</em>
+                        <br /><br />
+                        <p class="" style="color: #bcb0b0;">Dr. Aakanksha Goel, a Gold-medallist Consultant Plastic Surgeon with 10+ years of experience, excels in aesthetic and reconstructive surgeries, including gynecomastia, hair transplants, breast surgeries, liposuction, and abdominoplasty, providing exceptional patient care and post-operative support.
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-5"
+                    style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;color:white;">
+                    <div class="col-lg-4" style="display: flex; align-items: flex-end;max-height:fit-content;">
+                        <img src="custom/mentor3.webp" alt="image2"
+                            style="height: 300px;width: 100%;object-fit: contain;border-radius: 10px;" />
+                    </div>
+                    <div class="col-lg-8 p-4">
+                        <strong>Dr. Sudhanshu Punia</strong>
+                        <br />
+                        <em>Consultant Plastic Surgeon</em>
+                        <br /><br />
+                        <p class="" style="color: #bcb0b0;">Dr. Sudhanshu Punia, with 15+ years of experience, specializes in aesthetic and plastic surgeries, including burns and trauma. He has performed over 500 gynecomastia surgeries, 1000 hair transplants, and various breast, liposuction, and genital surgeries.
+                        </p>
                     </div>
                 </div>
             </div>
