@@ -3,43 +3,15 @@
 <head>
 
 
-
-    <script src="js/analytics.js"></script>
-
-
-    <meta name="facebook-domain-verification" content="pwb4tq5esoy99mxecmd1c2r8mm2ogc">
-    <meta name="p:domain_verify" content="a5c7b03763ef4e1edc5763434ebd9e33">
-    <meta name="B-verify" content="20e6f5e136a370d1852170f4312ba928947cc540">
-
-
-
-
-
-
-
-    <title>7 Days Makeup Course</title>
-    <meta name="description"
-        content="Coding Blocks brings to you classroom programs the most popular methods of learning opted by students who believe in perfection and who look forward to close, power packed interactions.">
-    <meta name="keywords" content="Programming. classroom. courses. programs. coding blocks pitampura coding blocks noida programming blocks coding blocks online coding classes in delhi coding classes delhi coding blocks courses java coding blocks coding blocks founder coding classes near me
-  coding institute in delhi
-  programming classes near me
-  code courses
-  coding institute
-  what is code blocks
-  programming coaching centre near me
-  programming class near me
-  programing classes near me
-  coding course near me
-  coding classes
-  learning coding online">
+    <title>Divine Hair Treatment</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
     <meta name="”robots”" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <meta name="mobile-web-app-capable" content="yes">
 
-    <!--<link href="favicon.ico" rel="icon">-->
-    <!--<link href="favicon.ico" rel="apple-touch-icon">-->
-    <link rel="shortcut icon" href="images/favicon.png" />
+    <link rel="shortcut icon" href="custom/logo.png" />
 
     <link
         href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap);"
@@ -78,7 +50,7 @@
 
 <body class="p-0 m-0">
     <div class="row formlayout">
-        <div class="col-lg-6 bg-black p-5">
+        <div class="col-lg-6 bg-white p-5">
             <div class="p-lg-5">
                 <div class="headlogo my-2">
                     <img src="custom/logo.png" alt="" />
@@ -87,22 +59,20 @@
                 <strong class="headings" style="color:#fff;">
                     <span class="headings"
                         style="background: linear-gradient(to right, #D89B23, #CD26A3);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-                        BECOME A PROFESSIONAL MAKEUP ARTIST IN 7 DAYS</span>
+                        GET A HEAD FULL OF HAIR IN JUST 6 HOURS</span>
                     <br />
-                    <span class="fs-5 text-white" style="color:white;">in collaboration with</span>
+                    <span class="fs-5 text-black" style="color:#000;">experience world-class facilities with</span>
                     <br />
                     <span class="headings"
                         style="background: linear-gradient(to right, #D89B23, #CD26A3);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-                        CHARACTER COSMETICS
+                        DIVINE COSMETIC SURGERY
                     </span>
 
                 </strong>
-                <p class="d-md-block d-none" style="color: white;">
-                    Learn the exact techniques and methods used by Industry experts &
-                    celebrity makeup artist who's worked with actors like <span style=" background: linear-gradient(to right, #D89B23, #CD26A3);;border-radius:
+                <p class="d-md-block d-none" style="color: #000;">
+                    Enable yourself to walk out looking young and professional in a minimal recovery time, leaving you <span style=" background: linear-gradient(to right, #D89B23, #CD26A3);;border-radius:
                     10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-                        Shilpa Shetty, Kriti Sanon, Urmila Matondkar, and
-                        many more</span>
+                        feeling younger and more confident.</span>
                 </p>
 
             </div>

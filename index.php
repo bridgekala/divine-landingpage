@@ -45,19 +45,19 @@
     <script src="https://fast.wistia.com/embed/medias/6cd0vdc3dh.jsonp" async></script>
     <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 
-    <section id="hero" class="d-flex align-items-center">
+    <section id="hero" class="d-flex align-items-center" style="background-color: #fff;">
         <div class="container">
             <div class="row my-0 my-sm-5 text-center p-lg-2 pt-0 mt-0">
                 <div class="headlogo mt-2 text-center">
                     <img src="custom/logo.png" alt="logo" class="mb-4" />
                     </span>
                 </div>
-                <strong class="headings" style="color:#fff;">
+                <strong class="headings" style="color:#000;">
                     <span class="headings"
                         style="background: linear-gradient(to right, #D98324, #FF5B5B);border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
                         GET A HEAD FULL OF HAIR IN JUST 6 HOURS</span>
                     <br class="d-lg-inline d-none" />
-                    <span class="fs-5 text-white d-lg-inline d-none" style="color:white;">experience world-class facilities with</span>
+                    <span class="fs-5 d-lg-inline d-none" style="color:#000;">experience world-class facilities with</span>
                     <br class="d-lg-inline d-none" />
                     <span class="headings d-lg-inline d-none"
                         style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -65,7 +65,7 @@
                     </span>
                 </strong>
                 <div class="d-flex justify-content-center mt-1 fs-5">
-                    <p class="px-lg-5" style="color: white;max-width: 700px;">
+                    <p class="px-lg-5" style="color: #000;max-width: 700px;">
                         Enable yourself to walk out looking young and professional in a minimal recovery time, leaving you     
                     <span
                             style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -81,7 +81,7 @@
                             style="width: 100%;border-radius: 10px;border: 2px solid #BF9456;background-color: black;" />
                     </a>
                 </span>
-                <span class="fs-5 text-white d-lg-none d-block" style="color:white;">experience world-class facilities with</span>
+                <span class="fs-5 d-lg-none d-block" style="color:#000;">experience world-class facilities with</span>
                 <span class="headings d-lg-none d-block"
                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
                     DIVINE COSMETIC SURGERY
@@ -91,7 +91,7 @@
             <div class="row herosection" style="">
                 <div class="col-lg-6 p-3 text-end">
                     <div class="text-center  mb-5  d-md-none d-block">
-                        <strong class="headings" style="color:#fff;">
+                        <strong class="headings" style="color:#000;">
                             <span class="headings"
                                 style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">What
                                 will you get ?</span>
@@ -197,42 +197,44 @@
 
 
 
-    <main id="main">
+    <main id="main" style="background-color:#fff;">
 
-        <section class="placementprowrapper">
+        <section class="placementprowrapper" style="background-color:#fff">
             <div class="container placementcontainer">
                 <div class="text-center  mb-5">
-                    <strong class="headings" style="color:#fff;">
+                    <strong class="headings" style="color:#000;">
                         <span class="headings"
-                            style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">People
-                            we've trained work at</span>
+                            style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+                            In the News</span>
                     </strong>
                 </div>
                 <div class="placementcontent placementrow1 text-center">
                     <div class="placementcard orangecard">
-                        <img src="custom/1.png" alt="">
-                        <!-- <div class="placementlogo"><img src="custom/1.png" alt=""></div> -->
+                        <img src="custom/news1.png" alt="">
                     </div>
                     <div class="placementcard bluecard">
-                        <img src="custom/2.png" alt="">
-                        <!-- <div class="placementlogo"><img src="custom/2.png" alt=""></div> -->
+                        <img src="custom/news2.png" alt="">
                     </div>
                     <div class="placementcard redcard">
-                        <img src="custom/3.png" alt="">
-                        <!-- <div class="placementlogo"><img src="custom/3.png" alt=""></div> -->
+                        <img src="custom/news3.png" alt="">
                     </div>
                     <div class="placementcard orangecard">
-                        <img src="custom/4.png" alt="">
-                        <!-- <div class="placementlogo"><img src="custom/4.png" alt=""></div> -->
+                        <img src="custom/news4.png" alt="">
+                    </div>
+                    <div class="placementcard bluecard">
+                        <img src="custom/news5.png" alt="">
+                    </div>
+                    <div class="placementcard redcard">
+                        <img src="custom/news6.png" alt="">
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="programfor">
+        <section id="programfor" style="background-color:#fff;">
             <div class="container">
                 <div class="row text-center mb-5">
-                    <strong class="headings" style="color:#fff;">
+                    <strong class="headings" style="color:#000;">
                         Who is this <span class="headings"
                             style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Treatment</span>
                         for ?
@@ -319,28 +321,16 @@
                     </div>
                     <div class="d-flex justify-content-center mt-4">
                         <a href="submitform.php" style="text-decoration: none;">
-                            <div class="mt-3 p-3 text-center"
-                                style="background: linear-gradient(135deg, #D98324, #FF5B5B);border-radius: 10px;width: fit-content;">
-                                <span class="fs-4 fw-semibold" style="color:white">
-                                    BOOK NOW TO RECEIVE A FREE 1:1 CONSULTATION
-                                </span>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="text-center mt-3 text-white">
-                        Reserve a seat before March 10, 2024 to unlock
-                        <span
-                            style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Bonuses
-                            worth ₹10,000</span>
+                            <div class="mt-3 p-3 text-center"white</span>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="programnotfor" class="bg-black">
+        <section id="programnotfor" style="background-color:#fff;">
             <div class="container">
                 <div class="row text-center mb-5">
-                    <strong class="headings" style="color:#fff;">
+                    <strong class="headings" style="color:#000;">
                         Don't do this
                         <span class="headings"
                             style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Treatment</span>                    </strong>
@@ -393,10 +383,10 @@
         </section>
 
 
-        <section id="learn">
+        <section id="learn" style="background-color:#fff">
             <div class="container">
                 <div class="row text-center mb-5">
-                    <strong class="headings" style="color:#fff;">
+                    <strong class="headings" style="color:#000;">
                         What will you get in this <span class="headings"
                             style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Treatment</span>
                         ?
@@ -465,7 +455,7 @@
             </div>
         </section>
 
-        <section id="trainer">
+        <section id="trainer" style="background-color:#fff;">
             <div class="container px-5">
                 <div class="text-center  mb-5">
                     <strong class="headings" style="color:#fff;">
@@ -492,7 +482,7 @@
                 <div class="row mt-5"
                     style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;color:white;">
                     <div class="col-lg-4" style="display: flex; align-items: flex-end;max-height:fit-content;">
-                        <img src="custom/mentor2.webp" alt="image2"
+                        <img src="custom/mentor3.webp" alt="image2"
                             style="height: 300px;width: 100%;object-fit: contain;border-radius: 10px;" />
                     </div>
                     <div class="col-lg-8 p-4">
@@ -507,7 +497,7 @@
                 <div class="row mt-5"
                     style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;color:white;">
                     <div class="col-lg-4" style="display: flex; align-items: flex-end;max-height:fit-content;">
-                        <img src="custom/mentor3.webp" alt="image2"
+                        <img src="custom/mentor2.webp" alt="image2"
                             style="height: 300px;width: 100%;object-fit: contain;border-radius: 10px;" />
                     </div>
                     <div class="col-lg-8 p-4">
@@ -522,11 +512,11 @@
             </div>
         </section>
 
-        <section class="programdetails">
+        <section class="programdetails" style="background-color:#fff;">
             <div class="container">
                 <div class="row">
                     <div class="text-center">
-                        <strong class="headings" style="color:#fff;">
+                        <strong class="headings" style="color:#000;">
                             Get the <span class="headings"
                                 style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Offer</span>
                             while it lasts!
@@ -538,11 +528,10 @@
                         <div class="p-3 p-sm-4 h-100"
                             style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;color:white;">
                             <strong class="headings" style="color:#fff;">
-                                Become a
+                                GET A 
                                 <span class="headings"
-                                    style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Professional
-                                    Makeup Artist</span>
-                                in just 7 days !
+                                    style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">HEAD FULL OF HAIR</span>
+                                 IN JUST 6 HOURS
                             </strong>
                             <hr />
                             <a href="submitform.php" style="text-decoration: none;">
@@ -560,52 +549,40 @@
                             <span class="fs-4"
                                 style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">What
                                 you’ll get...</span>
-                            <div class="p-2 " style="color:white;">
+                            <div class="p-2 " style="color:#000;">
                                 <i class="fas fa-check fs-4"
                                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i><span
-                                    class="ml-2 fs-lg-5">Comprehensive product and tool knowledge across various
-                                    brands.</span>
+                                    class="ml-2 fs-lg-5">Enjoy special discounts on our premium hair treatments, making it more affordable to achieve the hair of your dreams.</span>
                             </div>
-                            <div class="p-2 " style="color:white;">
+                            <div class="p-2 " style="color:#000;">
                                 <i class="fas fa-check fs-4"
                                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i><span
-                                    class="ml-2 fs-lg-5">In-depth eye makeup techniques tailored to different eye shapes
-                                    and
-                                    colors.</span>
+                                    class="ml-2 fs-lg-5">Receive a free initial consultation with our expert hair specialists to personalize your treatment plan.</span>
                             </div>
-                            <div class="p-2 " style="color:white;">
+                            <div class="p-2 " style="color:#000;">
                                 <i class="fas fa-check fs-4"
                                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i><span
-                                    class="ml-2 fs-lg-5">Mastery in handling different skin types and textures for
-                                    flawless makeup
-                                    application.</span>
+                                    class="ml-2 fs-lg-5">Get additional complimentary treatments or upgrades, such as a deep conditioning mask or scalp massage, with your booking.</span>
                             </div>
-                            <div class="p-2" style="color:white;">
+                            <div class="p-2" style="color:#000;">
                                 <i class="fas fa-check fs-4"
                                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i><span
-                                    class="ml-2 fs-lg-5">Exposure to current makeup trends and practical applications
-                                    for trend-based
-                                    looks.</span>
+                                    class="ml-2 fs-lg-5">Access to priority booking slots to ensure you get your treatment at your convenience, even during peak times.</span>
                             </div>
-                            <div class="p-2" style="color:white;">
+                            <div class="p-2" style="color:#000;">
                                 <i class="fas fa-check fs-4"
                                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i><span
-                                    class="ml-2 fs-lg-5">Exposure to current makeup trends and practical applications
-                                    for trend-based
-                                    looks.</span>
+                                    class="ml-2 fs-lg-5">Receive free samples or full-sized hair care products to continue your hair care regimen at home.</span>
                             </div>
-                            <div class="p-2" style="color:white;">
+                            <div class="p-2" style="color:#000;">
                                 <i class="fas fa-check fs-4"
                                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i><span
-                                    class="ml-2 fs-lg-5">Advanced skills in concealing, correcting, and creating radiant
-                                    complexions.</span>
+                                    class="ml-2 fs-lg-5">Earn loyalty points or rewards that can be redeemed for future treatments or products.</span>
                             </div>
-                            <div class="p-2" style="color:white;">
+                            <div class="p-2" style="color:#000;">
                                 <i class="fas fa-check fs-4"
                                     style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;"></i><span
-                                    class="ml-2 fs-lg-5">Signature bridal makeup tutorials for a range of ceremonies and
-                                    skin
-                                    types.</span>
+                                    class="ml-2 fs-lg-5">Benefit from exclusive treatment packages that combine multiple services at a reduced price for comprehensive hair care.</span>
                             </div>
                         </div>
                     </div>
@@ -614,11 +591,11 @@
             </div>
         </section>
 
-        <section class="testimonials bg-black">
+        <section class="testimonials" style="background-color:#fff;">
             <div class="container px-5">
                 <div class="row">
                     <div class="text-center">
-                        <strong class="headings" style="color:#fff;">
+                        <strong class="headings" style="color:#000;">
                             <span class="headings"
                                 style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Testimonials</span>
                         </strong>
@@ -631,20 +608,14 @@
                             <div class="d-flex flex-row gap-3">
                                 <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
-                                    <strong>Sneha</strong>
+                                    <strong>Mr Arvind Nagri</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i></p>
                                 </div>
                             </div>
                             <p class="mt-2">
-                                My bridal makeup theme was vintage elegance, and Yashika turned my vision into reality.
-                                Her expertise in
-                                blending
-                                timeless beauty with modern touches gave me a unique look that was both classic and
-                                contemporary. It was
-                                exactly what I
-                                dreamed of for my big day.
+                                    It was good. The procedure was hassle free with no pain. Overall, A satisfied tryst. It was a hassle free one with no time at all. Quite clean and hygiene was maintained well. Although it was a minor surgery, I was very much satisfied.                            
                             </p>
                         </div>
                     </div>
@@ -654,20 +625,14 @@
                             <div class="d-flex flex-row gap-3">
                                 <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
-                                    <strong>Divya</strong>
+                                    <strong>Paras Nath</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i></p>
                                 </div>
                             </div>
                             <p class="mt-2">
-                                My bridal makeup theme was vintage elegance, and Yashika turned my vision into reality.
-                                Her expertise in
-                                blending
-                                timeless beauty with modern touches gave me a unique look that was both classic and
-                                contemporary. It was
-                                exactly what I
-                                dreamed of for my big day.
+                                Just like everyone else, I was hesitant to get a hair transplant and once I decided to go with it, finding a good reliable clinic became a big problem. Even with little hesitation, I went ahead with Divine clinic (Dr. Amit Gupta) and I can safely say that it was a good choice.
                             </p>
                         </div>
                     </div>
@@ -677,19 +642,14 @@
                             <div class="d-flex flex-row gap-3">
                                 <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
-                                    <strong>Manpreet</strong>
+                                    <strong>Mr Praveen Kumar</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i></p>
                                 </div>
                             </div>
                             <p class="mt-2">
-                                Yashika did my engagement makeup, and it was flawless. She uses high-quality products
-                                and her expertise
-                                to bring out
-                                your natural beauty. Her friendly demeanor and comfortable studio environment made the
-                                whole experience
-                                delightful.
+                                Dr. Gupta and his team are brilliant. The whole process was made clear to me before I traveled to his clinic from London to New Delhi. The aftercare service provided to me was highly professional &amp; throughout my journey of hair transplant I was given full care. I 100 % recommend him should you want a 100% result.                            
                             </p>
                         </div>
                     </div>
@@ -699,18 +659,20 @@
                             <div class="d-flex flex-row gap-3">
                                 <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
-                                    <strong>Aarti</strong>
+                                    <strong>Bunty Lal</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i></p>
                                 </div>
                             </div>
                             <p class="mt-2">
-                                I attended Yashika's makeup academy and was amazed by the hands-on learning and personal
-                                attention I
-                                received. She’s not
-                                just a mentor but also a friend who encourages you at every step. Truly a transformative
-                                experience!
+                                I got my gynecomastia surgery done by Divine Cosmetic Surgery. I must say it’s safe and effective.
+                                Dr. Amit and his team are great.
+                                Very polite in nature.
+                                For surgery, Divine Cosmetic Surgery is the best place in Delhi.
+                                Post Surgery results are also good.
+                                I am happy to get it done from here…
+                                All thanks to Dr. Amit and his full divine team.
                             </p>
                         </div>
                     </div>
@@ -720,19 +682,14 @@
                             <div class="d-flex flex-row gap-3">
                                 <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
-                                    <strong>Neha</strong>
+                                    <strong>Sambhav Jain</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i></p>
                                 </div>
                             </div>
                             <p class="mt-2">
-                                Yashika's makeup artistry for my wedding was phenomenal. She perfectly captured the
-                                essence of what I
-                                wanted, making me
-                                feel absolutely stunning. Her professionalism mixed with her warm personality made my
-                                day even more
-                                special.
+                                If you wish to get your procedure done in the safest hands, then this is your stop. Dr. Amit is the humblest & most understanding of all surgeons, and not to mention, highly skilled. Both Pre & Post Surgery care is excellent as well. Dr. Amit visits the patients at the earliest after surgery to check up on them and to make sure that they’re comfortable.                            
                             </p>
                         </div>
                     </div>
@@ -742,20 +699,14 @@
                             <div class="d-flex flex-row gap-3">
                                 <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
-                                    <strong>Ayesha</strong>
+                                    <strong>Raj Choudhary</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i><i
                                             class="fa fa-star ms-1"></i><i class="fa fa-star ms-1"></i></p>
                                 </div>
                             </div>
                             <p class="mt-2">
-                                For my reception, I chose a bold makeup look, and Yashika executed it with perfection.
-                                Her ability to
-                                accentuate my
-                                features while keeping the makeup bold yet elegant was remarkable. I felt incredibly
-                                beautiful, thanks
-                                to her
-                                exceptional talent and attention to detail.
+                                The best place for all kinds of hair treatment. One can go blindly without a single doubt. Thank you, Dr. Amit Gupta, Deepti’s mam, and the team. After treatment services are also best special thanks to Satpal Ji.
                             </p>
                         </div>
                     </div>
@@ -764,10 +715,10 @@
             </div>
         </section>
 
-        <section class="faqs">
+        <section class="faqs" style="background-color:#fff;">
             <div class="container">
                 <div class="row text-center mb-0 mb-sm-5">
-                    <strong class="headings" style="color:#fff;">
+                    <strong class="headings" style="color:#000;">
                         Frequently Asked Questions
                     </strong>
                 </div>
@@ -788,7 +739,7 @@
                             <span class="fs-lg-4 fw-normal"
                                 style="color:white;padding-right: 5px;display: inline-block;">How do I book a consultation ?</span>
                             <p style="color:white;padding-left: 0px;margin: 10px 0px;">
-                                You can easily book a consultation through our website by clicking the "Book Now" button, or by calling us directly at 123-456-7890. Our team will assist you in scheduling an appointment at your convenience.                            
+                                You can easily book a consultation through our website by clicking the "Book Now" button, or by calling us directly at +91 96547 54793. Our team will assist you in scheduling an appointment at your convenience.                            
                             </p>
                         </li>
                         <li>
@@ -869,7 +820,7 @@
         </section>
     </main>
 
-    <footer id="footer">
+    <footer id="footer" style="background-color:#fff">
 
         <div class="mobile-footer-cta" style="background-size: cover;">
             <a href="submitform.php" class="cta-button" style="text-decoration: none;"><span class=" fw-semibold"
@@ -955,11 +906,11 @@
                         </div>
                     </a>
                 </div>
-                <div class="text-center mt-3 text-white">
-                    Reserve a seat before March 10, 2024 to unlock
+                <div class="text-center mt-3">
+                    Get the hair you've always dreamed of - 
                     <span
-                        style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">Bonuses
-                        worth ₹10,000</span>
+                        style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+                        visit us now!</span>
                 </div>
             </div>
         </div>
@@ -975,19 +926,19 @@
                     <!-- <i class="fa fa-map-marker"></i>
           55, Block FD, Harsh Vihar, Pitampura,
           Delhi-110063 -->
-                    <p style="color:white;font-weight: 500;" class="mb-5 mt-2">Copyright 2024 - Yashikamakeovers.in.
+                    <p style="color:#000;font-weight: 500;" class="mb-5 mt-2">Copyright 2024 - www.divinecosmeticsurgery.com
                         All rights reserved</p>
 
                 </div>
                 <div class="col-md-3">
                     <div class="social-links">
                         <a href="https://www.facebook.com/YashikaMakeovers/" class="facebook"><i
-                                class="bx bxl-facebook"></i></a>
+                                class="bx bxl-facebook text-black"></i></a>
 
                         <a href="https://www.instagram.com/yashikamakeovers/" class="instagram"><i
-                                class="bx bxl-instagram"></i></a>
+                                class="bx bxl-instagram text-black"></i></a>
                         <a href="https://www.youtube.com/@yashikamakeover1429" class="google-plus"><i
-                                class="bx bxl-youtube"></i></a>
+                                class="bx bxl-youtube text-black"></i></a>
 
                     </div>
                 </div>
