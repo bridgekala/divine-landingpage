@@ -288,24 +288,19 @@
                             <div class="p-3 mb-3"
                                 style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
                                 <img src="custom/tick.svg" alt="timer" /> <span
-                                    class="ml-2 fs-lg-5">Self-learners</span>
+                                    class="ml-2 fs-lg-5">People who are bald</span>
                             </div>
                             <div class="p-3 mb-3"
                                 style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
-                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">Makeup
-                                    Influencers</span>
+                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">People with genetic hair loss issues</span>
                             </div>
                             <div class="p-3 mb-3"
                                 style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
-                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">Beauticians and
-                                    salon staff
-                                    learners</span>
+                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">Individuals with broadened foreheads and less hair on the front</span>
                             </div>
                             <div class="p-3 mb-3"
                                 style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
-                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">Freelancers who
-                                    want to start or
-                                    upgrade their skills</span>
+                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">People who have undergone surgeries leading to hair loss</span>
                             </div>
                         </div>
                     </div>
@@ -313,15 +308,24 @@
                         <div class="p-3 h-100" style="border-radius: 15px;color:white;">
                             <div class="p-3"
                                 style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
-                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">Anyone with a
-                                    passion for makeup
-                                    seeking certification and hands-on experience</span>
+                                <img src="custom/tick.svg" alt="timer" /> <span class="ml-2 fs-lg-5">Anyone who's looking for a quick hair transplant surgery to get better looking hair</span>
                             </div>
                         </div>
                     </div>
                     <div class="d-flex justify-content-center mt-4">
                         <a href="submitform.php" style="text-decoration: none;">
-                            <div class="mt-3 p-3 text-center"white</span>
+                            <div class="mt-3 p-3 text-center"
+                                style="background: linear-gradient(135deg, #D98324, #FF5B5B);border-radius: 10px;width: fit-content;">
+                                <span class="fs-4 fw-semibold" style="color:white">
+                                    BOOK NOW TO RECEIVE A FREE 1:1 CONSULTATION
+                                </span>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="text-center mt-3 text-black">
+                        Get the hair you've always dreamed of - 
+                        <span
+                            style="background: linear-gradient(to right, #D98324, #FF5B5B);;border-radius: 10px;-webkit-background-clip: text; -webkit-text-fill-color: transparent;">visit us now!</span>
                     </div>
                 </div>
             </div>
