@@ -606,7 +606,7 @@
                         <div class="p-3"
                             style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
                             <div class="d-flex flex-row gap-3">
-                                <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/16347/16347321.png" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
                                     <strong>Mr Arvind Nagri</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
@@ -623,7 +623,7 @@
                         <div class="p-3"
                             style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
                             <div class="d-flex flex-row gap-3">
-                                <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/16347/16347321.png" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
                                     <strong>Paras Nath</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
@@ -640,7 +640,7 @@
                         <div class="p-3"
                             style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
                             <div class="d-flex flex-row gap-3">
-                                <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/16347/16347321.png" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
                                     <strong>Mr Praveen Kumar</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
@@ -657,7 +657,7 @@
                         <div class="p-3"
                             style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
                             <div class="d-flex flex-row gap-3">
-                                <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/16347/16347321.png" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
                                     <strong>Bunty Lal</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
@@ -680,7 +680,7 @@
                         <div class="p-3"
                             style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
                             <div class="d-flex flex-row gap-3">
-                                <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/16347/16347321.png" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
                                     <strong>Sambhav Jain</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
@@ -697,7 +697,7 @@
                         <div class="p-3"
                             style="border-radius: 7px;background: linear-gradient(135deg, #4F0000, #8F0D0D);color:white;border: 1px solid white;">
                             <div class="d-flex flex-row gap-3">
-                                <img src="custom/testi.svg" alt="images" style="width:3rem;height: 100%;" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/16347/16347321.png" alt="images" style="width:3rem;height: 100%;" />
                                 <div class="d-flex flex-column justify-content-between">
                                     <strong>Raj Choudhary</strong>
                                     <p style="color:#bcb0b0"><i class="fa fa-star ms-1"></i><i
